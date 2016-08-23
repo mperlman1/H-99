@@ -1,0 +1,62 @@
+
+c:/Users/matthew.a.perlman/haskell/H-99/list-problems.hs,1338
+myLast myLast1,2
+myLast myLast2,3
+myButLast myButLast7,8
+myButLast myButLast8,9
+elementAt elementAt14,15
+elementAt elementAt15,16
+myLength myLength20,21
+myLength myLength21,22
+myReverse myReverse25,26
+myReverse myReverse26,27
+isPalindrome isPalindrome30,31
+isPalindrome isPalindrome31,32
+data NestedList NestedList34,35
+data NestedList a = Elem Elem34,35
+data NestedList a = Elem a | List List34,35
+flatten flatten36,37
+flatten flatten37,38
+compress compress43,44
+compress compress44,45
+pack pack53,54
+pack pack54,55
+encode encode62,63
+encode encode63,64
+data RLE RLE68,69
+data RLE a = Multiple Multiple68,69
+data RLE a = Multiple Int a | Single Single68,69
+encodeModified encodeModified71,72
+encodeModified encodeModified72,73
+decodeModified decodeModified79,80
+decodeModified decodeModified80,81
+encodeDirect encodeDirect85,86
+encodeDirect encodeDirect86,87
+dupli dupli92,93
+dupli dupli93,94
+repli repli97,98
+repli repli98,99
+dropEvery:dropEvery102,103
+dropEvery dropEvery103,104
+split split108,109
+split split109,110
+slice slice112,113
+slice slice113,114
+rotate rotate116,117
+rotate rotate117,118
+removeAt removeAt123,124
+removeAt removeAt124,125
+insertAt insertAt127,128
+insertAt insertAt128,129
+range range131,132
+range range132,133
+
+c:/Users/matthew.a.perlman/haskell/H-99/arithmetic-problems.hs,172
+isPrime isPrime1,2
+isPrime isPrime2,3
+myGCD myGCD10,11
+myGCD myGCD11,12
+coPrime coPrime15,16
+coPrime coPrime16,17
+totient totient19,20
+totient totient20,21
